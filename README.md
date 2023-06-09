@@ -9,8 +9,8 @@
     
 ### Hi there, I'm Thais 👋
 
-- 🔭 I’m currently working on updates for ML_Training_exercises, Proj_3 SQL and NY Schools Survey
-- 🌱 I’m currently learning Python, Machine Learning
+- 🔭 I’m currently working on updates for ML_Training_exercises and NY Schools Survey
+- 🌱 I’m currently learning Python, Machine Learning and improving my skills at SQL and R.
 - 👯 I’m looking to collaborate on projects with positive social impact
 - 🤔 I’m looking for help with some learning projects on R... Feel Free to modify/improve everything...There is only one rule: "Keep it Public" 
 - 💬 Ask me about anything... The answer will be "I don't know, but we can research and find answers togheter!"
